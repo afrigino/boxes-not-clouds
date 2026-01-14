@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI.svg)](https://doi.org/10.5281/zenodo.18247977)
+
 # boxes-not-clouds
 **A specification and manifesto for legible cyberinfrastructure.**
 
@@ -104,6 +106,10 @@ This work is archived on Zenodo.
 
 Please cite the latest version using the Zenodo concept DOI,
 or cite version v1.0.1 for a fixed reference.
+
+Example (v1.0.1):
+Alex Frigino (2026). Boxes Not Clouds v1.0.1. Zenodo.
+https://doi.org/10.5281/zenodo.18247977
 
 ---
 
