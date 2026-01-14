@@ -98,4 +98,13 @@ CC by 4.0
 
 ---
 
+## Citation
+
+This work is archived on Zenodo.
+
+Please cite the latest version using the Zenodo concept DOI,
+or cite version v1.0.1 for a fixed reference.
+
+---
+
 **Boxes, not clouds.**
